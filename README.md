@@ -25,7 +25,7 @@
 ---
 
 <details>
-<summary><b>🖼️ optional — dashboard screenshots</b> <i>(only renders if you upload the <code>assets/</code> folder; README works fine without it)</i></summary>
+<summary><b>🖼️ optional — dashboard screenshots</b> </summary>
 
 ![previews](assets/previews.png)
 
